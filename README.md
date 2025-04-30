@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
-<h3 align="center">Freelance - DevOps Engineer at Adeo - Graduated from CentraleSupelec & ECE Paris</h3>
+<h3 align="center">Freelance - DevOps Engineer at Adeo - Graduated from CentraleSupelec & ECE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soaalex&label=Profile%20views&color=0e75b6&style=flat" alt="soaalex" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Adeo**
 
-- ⚡ Fun fact **I learn more skills every day than money**
+- ⚡ Fun fact **PB: 130 WPM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
